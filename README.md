@@ -15,3 +15,10 @@ Trello link https://trello.com/b/0c3MeAHm/finalproject
 
 ![image](https://user-images.githubusercontent.com/73512839/117311153-c30a4880-aea5-11eb-999a-e62aa1aedc47.png)
 
+
+
+Project has done by:
+
+@b410asakura;  Baiel Saparaliev
+
+@xNazim;  Nazim Mukhtarbekov
